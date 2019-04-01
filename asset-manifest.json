@@ -1,15 +1,15 @@
 {
-  "main.css": "thumbtack.af/static/css/main.5554c7dd.chunk.css",
-  "main.js": "thumbtack.af/static/js/main.8ddbdc77.chunk.js",
-  "main.js.map": "thumbtack.af/static/js/main.8ddbdc77.chunk.js.map",
-  "runtime~main.js": "thumbtack.af/static/js/runtime~main.dd956920.js",
-  "runtime~main.js.map": "thumbtack.af/static/js/runtime~main.dd956920.js.map",
-  "static/css/2.0d287a46.chunk.css": "thumbtack.af/static/css/2.0d287a46.chunk.css",
-  "static/js/2.d4a728e6.chunk.js": "thumbtack.af/static/js/2.d4a728e6.chunk.js",
-  "static/js/2.d4a728e6.chunk.js.map": "thumbtack.af/static/js/2.d4a728e6.chunk.js.map",
-  "index.html": "thumbtack.af/index.html",
-  "precache-manifest.57db701b3a7aff379045deb3752c05a7.js": "thumbtack.af/precache-manifest.57db701b3a7aff379045deb3752c05a7.js",
-  "service-worker.js": "thumbtack.af/service-worker.js",
-  "static/css/2.0d287a46.chunk.css.map": "thumbtack.af/static/css/2.0d287a46.chunk.css.map",
-  "static/css/main.5554c7dd.chunk.css.map": "thumbtack.af/static/css/main.5554c7dd.chunk.css.map"
+  "main.css": "/static/css/main.5554c7dd.chunk.css",
+  "main.js": "/static/js/main.d524f0e7.chunk.js",
+  "main.js.map": "/static/js/main.d524f0e7.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
+  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
+  "static/css/2.0d287a46.chunk.css": "/static/css/2.0d287a46.chunk.css",
+  "static/js/2.d4a728e6.chunk.js": "/static/js/2.d4a728e6.chunk.js",
+  "static/js/2.d4a728e6.chunk.js.map": "/static/js/2.d4a728e6.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.92bd40e9a84cfd2924f3c900623cc449.js": "/precache-manifest.92bd40e9a84cfd2924f3c900623cc449.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.0d287a46.chunk.css.map": "/static/css/2.0d287a46.chunk.css.map",
+  "static/css/main.5554c7dd.chunk.css.map": "/static/css/main.5554c7dd.chunk.css.map"
 }
