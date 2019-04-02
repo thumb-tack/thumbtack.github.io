@@ -1,3 +1,9 @@
 # Set indentation to Tabs for all file types
+root = true
+
+[.travis.yml]
+indent_style = space
+indent_size = 2
+
 [*]
 indent_style = tab
